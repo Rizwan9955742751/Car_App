@@ -4,11 +4,6 @@ public class A{
 	{
 		String name = "Rizwan";
 	}
-	// task 103
-	public  void m4 ()
-	{
-	// logic to bulid Aeroplane
-	}
 <<<<<<< Updated upstream
 	// task n0 101 
 	public  void m3 ()
