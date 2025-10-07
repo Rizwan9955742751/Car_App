@@ -9,6 +9,7 @@ public class A{
 	public  void m3 ()
 	{
 		// logic to insert the data into database
+		String dbName = "SBMS27";
 	}
 =======
 	// taks no 100
