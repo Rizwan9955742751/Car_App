@@ -10,6 +10,7 @@ public class A{
 	{
 		// logic to insert the data into database
 		String dbName = "SBMS27";
+		String projectName ="JRTP"
 	}
 =======
 	// taks no 100
